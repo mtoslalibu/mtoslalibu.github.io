@@ -3,7 +3,7 @@ title: "JACKPOT: Online Experimentation of Cloud Microservices"
 collection: publications
 permalink: /publication/jackpot
 excerpt: 'JACKPOT, a system for online cloud experimentation in the presence of multiple interacting microservices.'
-date: 2020
+date: '2020'
 venue: '12th USENIX Workshop on Hot Topics in Cloud Computing (HotCloud 20)'
 paperurl: 'https://www.usenix.org/conference/hotcloud20/presentation/toslali'
 citation: ''
