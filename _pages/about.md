@@ -37,31 +37,14 @@ Bilkent University, Research Assistant Dec 2014 - July 2015
 
 Work Experience
 ======
-CyanGate, Full Stack Software Developer Jan 2018 - July 2018
-+ SDrive: Developed a file distribution platform on Salesforce integrating with Google Drive, Box, AWS
 
-OpsGenie-Atlassian, Software Engineer July 2017 - Dec 2017
-+ Thundra: Contributed to the development of a distributed log/stat/audit data collector for cloud apps
-+ Custom Query Language: Developed custom query syntax and grammar using Antlr
-+ Cache Management: RD of multiple caching systems for coherency and time comparison on AWS
-+ API Gateway & Elastic Search: Developed an API integration for backend cloud services with ES
-
-Turkcell, Software R&D Engineer July 2016 - July 2017
-+ Messaging app (BiP) Rest API services: Developed BiP Translate, BiP Game Ground, BiP Pharmacy, BiP
-Weather, Bip Retail Hunt, BiP Face recognition services
-
-Seneka, Software Engineer Sept 2015 - July 2016
-+ Contributed to the development of Electronic Document Management System for Custom and Trade Ministry
-
-Turkcell, Software Engineer Intern July 2015 - Sept 2016
-+ Contributed in research for energy aware data center engineering
-
-Gate Electronic, Software Engineer Intern July 2014 - Sept 2014
-+ Contributed to the development of file management and encryption system
-
-Bilkent University, Teaching Assistant Sept 2012 – July 2014
-+ TA in Computer Science 101, Physics 101, Physics 102 courses
-+ Volunteer Elementary School Teacher (Mathematics and Science courses)
++ CyanGate, Full Stack Software Developer Jan 2018 - July 2018
++ OpsGenie-Atlassian, Software Engineer July 2017 - Dec 2017
++ Turkcell, Software R&D Engineer July 2016 - July 2017
++ Seneka, Software Engineer Sept 2015 - July 2016
++ Turkcell, Software Engineer Intern July 2015 - Sept 2016
++ Gate Electronic, Software Engineer Intern July 2014 - Sept 2014
++ Bilkent University, Teaching Assistant Sept 2012 – July 2014
 
 Education
 ======
