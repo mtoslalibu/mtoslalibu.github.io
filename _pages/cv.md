@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-<object data="/files/toslali_resume.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/files/toslali_resume.pdf">
+<object data="{{ base_path }}//files/toslali_resume.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="{{ base_path }}//files/toslali_resume.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/mtoslalibu/mtoslalibu.github.io/blob/master/files/toslali_resume.pdf">Download PDF</a>.</p>
     </embed>
 </object>
