@@ -14,14 +14,3 @@ Online experimentation is an agile software development practice, which plays a 
 In this paper, we propose a novel formulation for online experimentation of cloud applications which generalizes traditional approaches applied to web and mobile applications by incorporating the unique challenges posed by cloud environments. To enable practitioners to apply our formulation, we develop and present JACKPOT, a system for online cloud experimentation in the presence of multiple interacting microservices. We discuss an initial prototype of JACKPOT along with a preliminary evaluation of this prototype based on experiments on a public container cloud.
 
 [Download paper here](https://www.usenix.org/system/files/hotcloud20_paper_toslali.pdf)
-
-Recommended citation: \\
-@inproceedings {254142,
-author = {Mert Toslali and Srinivasan Parthasarathy and Fabio Oliveira and Ayse K. Coskun},
-title = {{JACKPOT}: Online Experimentation of Cloud Microservices},
-booktitle = {12th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 20)},
-year = {2020},
-url = {https://www.usenix.org/conference/hotcloud20/presentation/toslali},
-publisher = {{USENIX} Association},
-month = jul,
-}
