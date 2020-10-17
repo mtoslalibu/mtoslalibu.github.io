@@ -88,7 +88,7 @@ analytics, online experimentation, distributed tracing in the cloud."
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=oGrMct4AAAAJ&hl=en&authuser=1"
-  email            : 
+  email            : "toslali@bu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,19 +97,18 @@ analytics, online experimentation, distributed tracing in the cloud."
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/mtoslalibu"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+ 
   vine             :
   weibo            :
   xing             :
