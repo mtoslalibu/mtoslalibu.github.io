@@ -3,7 +3,7 @@ title: "An automated, cross-layer instrumentation framework for diagnosing perfo
 collection: publications
 permalink: /publication/pythia
 excerpt: 'An automated instrumentation framework, Pythia, that runs alongside deployed distributed applications. In response to a newly-observed performance problem, Pythia searches the space of possible instrumentation choices to enable the instrumentation needed to help diagnose it'
-date: 2019
+date: '2019'
 venue: 'Proceedings of the ACM Symposium on Cloud Computing (SoCC 20)'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3357223.3362704'
 citation: ''
