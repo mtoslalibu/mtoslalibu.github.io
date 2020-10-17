@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Mert's website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,12 +11,58 @@ redirect_from:
 Hi, welcome to my website. I am a computer engineering PhD student at Boston University. I am currently working on performance problems in cloud computing. My research involves monitoring, performance analytics, online experimentation, distributed tracing. 
 
 
-A data-driven personal website
+Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
++ M. Toslali, S. Parthasarathy, F. Oliveira, A. Coskun, “JACKPOT: Online experimentation of Cloud
+Microservices”, in USENIXWorkshop on Hot Topics in Cloud Computing (HotCloud), 2020.
++ E. Ates, L. Sturmann, M. Toslali, O. Krieger, R. Megginson, A.K. Coskun, R.R. Sambasivan, “An
+automated, cross-layer instrumentation framework for diagnosing performance problems in distributed
+applications”, in Symposium on Cloud Computing (SoCC), 2019
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Research Experience
+======
 
+PeacLab, Boston University, Research Assistant Sept 2018 - Present
++ Diagnosing performance problems by leveraging statistical and machine learning in cloud applications
+IBM T.J.Watson, Research Intern June 2020 - Sept 2020
++ Tritium: Automated analytics and ML for fault localization using cross-layer telemetry in cloud
+IBM T.J.Watson, Research Intern May 2019 - Aug 2019
++ Jackpot: Multi-armed bandit driven online experimentation of cloud microservices
+Bilkent University, Research Assistant Dec 2014 - July 2015
++ Energy-aware dynamic connection provisioning on data centers
+
+
+Work Experience
+======
+CyanGate, Full Stack Software Developer Jan 2018 - July 2018
++ SDrive: Developed a file distribution platform on Salesforce integrating with Google Drive, Box, AWS
+OpsGenie-Atlassian, Software Engineer July 2017 - Dec 2017
++ Thundra: Contributed to the development of a distributed log/stat/audit data collector for cloud apps
++ Custom Query Language: Developed custom query syntax and grammar using Antlr
++ Cache Management: RD of multiple caching systems for coherency and time comparison on AWS
++ API Gateway & Elastic Search: Developed an API integration for backend cloud services with ES
+Turkcell, Software R&D Engineer July 2016 - July 2017
++ Messaging app (BiP) Rest API services: Developed BiP Translate, BiP Game Ground, BiP Pharmacy, BiP
+Weather, Bip Retail Hunt, BiP Face recognition services
+Seneka, Software Engineer Sept 2015 - July 2016
++ Contributed to the development of Electronic Document Management System for Custom and Trade Ministry
+Turkcell, Software Engineer Intern July 2015 - Sept 2016
++ Contributed in research for energy aware data center engineering
+Gate Electronic, Software Engineer Intern July 2014 - Sept 2014
++ Contributed to the development of file management and encryption system
+Bilkent University, Teaching Assistant Sept 2012 – July 2014
++ TA in Computer Science 101, Physics 101, Physics 102 courses
++ Volunteer Elementary School Teacher (Mathematics and Science courses)
+
+Education
+======
+Boston University Sept 2018 - Present
++ Ph.D. Computer Engineering, GPA: 4.0
+Bilkent University Sept 2011 - June 2016
++ B.S. Electrical and Electronics Engineering, GPA: 3.63
++ Comprehensive (100%) Scholarship
+University of Nebraska Lincoln Aug 2014 - Jan 2015
++ Exchange Student, Electrical and Computer Engineering
 
 Credits
 ------
