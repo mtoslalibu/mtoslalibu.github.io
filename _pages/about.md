@@ -22,22 +22,22 @@ applications”, in Symposium on Cloud Computing (SoCC), 2019
 Research Experience
 ======
 
-+ PeacLab, Boston University, Research Assistant                 [Sept 2018 - Present]
-+ IBM T.J.Watson, Research Intern                                [June 2020 - Sept 2020]
-+ IBM T.J.Watson, Research Intern                                [May 2019 - Aug 2019]
-+ Bilkent University, Research Assistant                         [Dec 2014 - July 2015]
++ PeacLab, Boston University, *Research Assistant*                [Sept 2018 - Present]
++ IBM T.J.Watson, *Research Intern*                                [June 2020 - Sept 2020]
++ IBM T.J.Watson, *Research Intern*                                [May 2019 - Aug 2019]
++ Bilkent University, *Research Assistant*                         [Dec 2014 - July 2015]
 
 
 Work Experience
 ======
 
-+ CyanGate, Full Stack Software Developer Jan 2018 - July 2018
-+ OpsGenie-Atlassian, Software Engineer July 2017 - Dec 2017
-+ Turkcell, Software R&D Engineer July 2016 - July 2017
-+ Seneka, Software Engineer Sept 2015 - July 2016
-+ Turkcell, Software Engineer Intern July 2015 - Sept 2016
-+ Gate Electronic, Software Engineer Intern July 2014 - Sept 2014
-+ Bilkent University, Teaching Assistant Sept 2012 – July 2014
++ CyanGate, *Full Stack Software Developer* [Jan 2018 - July 2018]
++ OpsGenie-Atlassian, *Software Engineer* [July 2017 - Dec 2017]
++ Turkcell, *Software R&D Engineer* [July 2016 - July 2017]
++ Seneka, *Software Engineer* [Sept 2015 - July 2016]
++ Turkcell, *Software Engineer Intern* [July 2015 - Sept 2016]
++ Gate Electronic, *Software Engineer Intern* [July 2014 - Sept 2014]
++ Bilkent University, *Teaching Assistant* [Sept 2012 – July 2014]
 
 Education
 ======
