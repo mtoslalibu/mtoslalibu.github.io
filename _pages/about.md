@@ -22,17 +22,10 @@ applications”, in Symposium on Cloud Computing (SoCC), 2019
 Research Experience
 ======
 
-PeacLab, Boston University, Research Assistant Sept 2018 - Present
-+ Diagnosing performance problems by leveraging statistical and machine learning in cloud applications
-
-IBM T.J.Watson, Research Intern June 2020 - Sept 2020
-+ Tritium: Automated analytics and ML for fault localization using cross-layer telemetry in cloud
-
-IBM T.J.Watson, Research Intern May 2019 - Aug 2019
-+ Jackpot: Multi-armed bandit driven online experimentation of cloud microservices
-
-Bilkent University, Research Assistant Dec 2014 - July 2015
-+ Energy-aware dynamic connection provisioning on data centers
++ PeacLab, Boston University, Research Assistant                 Sept 2018 - Present
++ IBM T.J.Watson, Research Intern                                June 2020 - Sept 2020
++ IBM T.J.Watson, Research Intern                                May 2019 - Aug 2019
++ Bilkent University, Research Assistant                         Dec 2014 - July 2015
 
 
 Work Experience
