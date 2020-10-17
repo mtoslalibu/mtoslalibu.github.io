@@ -13,9 +13,9 @@ Hi, welcome to my website. I am a computer engineering PhD student at Boston Uni
 
 Publications
 ======
-+ M. Toslali, S. Parthasarathy, F. Oliveira, A. Coskun, “JACKPOT: Online experimentation of Cloud
++ **M. Toslali**, S. Parthasarathy, F. Oliveira, A. Coskun, “JACKPOT: Online experimentation of Cloud
 Microservices”, in USENIX Workshop on Hot Topics in Cloud Computing (HotCloud), 2020.
-+ E. Ates, L. Sturmann, M. Toslali, O. Krieger, R. Megginson, A.K. Coskun, R.R. Sambasivan, “An
++ **E. Ates**, L. Sturmann, M. Toslali, O. Krieger, R. Megginson, A.K. Coskun, R.R. Sambasivan, “An
 automated, cross-layer instrumentation framework for diagnosing performance problems in distributed
 applications”, in Symposium on Cloud Computing (SoCC), 2019
 
