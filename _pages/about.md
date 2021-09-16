@@ -13,11 +13,17 @@ Hi, welcome to my website. I am a computer engineering PhD student at Boston Uni
 
 Publications
 ======
++ **M. Toslali**, S. Parthasarathy, F. Oliveira, H. Huang, A. Coskun, “Iter8: Online Experimentation in
+the Cloud”. In Proceedings of the 12th ACM Symposium on Cloud Computing (SoCC ’21)
++ **M. Toslali**, E. Ates, A. Ellis, Z. Zhang, D. Huye, L. Liu, S. Puterman, A.K. Coskun, R.R. Sambasivan,
+“Automating instrumentation choices for performance problems in distributed applications with
+VAIF”. In Proceedings of the 12th ACM Symposium on Cloud Computing (SoCC ’21).
 + **M. Toslali**, S. Parthasarathy, F. Oliveira, A. Coskun, “JACKPOT: Online experimentation of Cloud
-Microservices”, in USENIX Workshop on Hot Topics in Cloud Computing (HotCloud), 2020.
+Microservices”. In 12th USENIX Workshop on Hot Topics in Cloud Computing (HotCloud ’20).
 + E. Ates, L. Sturmann, **M. Toslali**, O. Krieger, R. Megginson, A.K. Coskun, R.R. Sambasivan, “An
 automated, cross-layer instrumentation framework for diagnosing performance problems in distributed
-applications”, in Symposium on Cloud Computing (SoCC), 2019
+applications”. In Proceedings of the 10th ACM Symposium on Cloud Computing
+(SoCC ’19).
 
 Research Experience
 ======
