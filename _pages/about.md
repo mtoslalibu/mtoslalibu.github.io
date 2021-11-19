@@ -13,16 +13,16 @@ Hi, welcome to my website. I am a computer engineering PhD student at Boston Uni
 
 Publications
 ======
-+ **M. Toslali**, S. Parthasarathy, F. Oliveira, H. Huang, A. Coskun, “Iter8: Online Experimentation in
-the Cloud”. In Proceedings of the 12th ACM Symposium on Cloud Computing (SoCC ’21)
++ **M. Toslali**, S. Parthasarathy, F. Oliveira, H. Huang, A. Coskun, “[Iter8: Online Experimentation in
+the Cloud](https://dl.acm.org/doi/abs/10.1145/3472883.3486984)”. In Proceedings of the 12th ACM Symposium on Cloud Computing (SoCC ’21)
 + **M. Toslali**, E. Ates, A. Ellis, Z. Zhang, D. Huye, L. Liu, S. Puterman, A.K. Coskun, R.R. Sambasivan,
-“Automating instrumentation choices for performance problems in distributed applications with
-VAIF”. In Proceedings of the 12th ACM Symposium on Cloud Computing (SoCC ’21).
-+ **M. Toslali**, S. Parthasarathy, F. Oliveira, A. Coskun, “JACKPOT: Online experimentation of Cloud
-Microservices”. In 12th USENIX Workshop on Hot Topics in Cloud Computing (HotCloud ’20).
-+ E. Ates, L. Sturmann, **M. Toslali**, O. Krieger, R. Megginson, A.K. Coskun, R.R. Sambasivan, “An
+“[Automating instrumentation choices for performance problems in distributed applications with
+VAIF](https://dl.acm.org/doi/10.1145/3472883.3487000)”. In Proceedings of the 12th ACM Symposium on Cloud Computing (SoCC ’21).
++ **M. Toslali**, S. Parthasarathy, F. Oliveira, A. Coskun, “[JACKPOT: Online experimentation of Cloud
+Microservices]”(https://www.usenix.org/conference/hotcloud20/presentation/toslali). In 12th USENIX Workshop on Hot Topics in Cloud Computing (HotCloud ’20).
++ E. Ates, L. Sturmann, **M. Toslali**, O. Krieger, R. Megginson, A.K. Coskun, R.R. Sambasivan, “[An
 automated, cross-layer instrumentation framework for diagnosing performance problems in distributed
-applications”. In Proceedings of the 10th ACM Symposium on Cloud Computing
+applications](https://dl.acm.org/doi/10.1145/3357223.3362704)”. In Proceedings of the 10th ACM Symposium on Cloud Computing
 (SoCC ’19).
 
 Research Experience
