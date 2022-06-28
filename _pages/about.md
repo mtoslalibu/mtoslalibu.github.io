@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my website. I am a computer engineering PhD student at Boston University. I am currently working on performance problems in cloud computing. My research involves monitoring, performance analytics, online experimentation, distributed tracing. 
+Hi, welcome to my website. I am a computer engineering PhD student at Boston University. I am currently working on performance problems in cloud computing. My research involves monitoring, performance analytics, online experimentation, and distributed tracing. 
 
 
 Publications
