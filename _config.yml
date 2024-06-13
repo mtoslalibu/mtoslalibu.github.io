@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Mert Toslali"
   avatar           : "Mert-Toslali-resized.png"
-  bio              : "Computer engineering PhD student at Boston University, focusing on monitoring, performance
-analytics, online experimentation, distributed tracing in the cloud."
+  bio              : "Research scientist at IBM Research."
   location         : "Boston, MA"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
