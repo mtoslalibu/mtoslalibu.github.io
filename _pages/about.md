@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my website. I am a computer engineering PhD student at Boston University. I am currently working on performance problems in cloud computing. My research involves monitoring, performance analytics, online experimentation, and distributed tracing. 
+Hi, welcome to my website! I'm a research scientist at IBM Research, where I focus on utilizing AI to enhance cloud and software performance, security, and risk analysis. Before joining IBM, I completed my PhD in computer engineering at Boston University. Feel free to explore my research and projects, and don't hesitate to reach out if you have any questions or collaborations in mind.
 
 
 Publications
 ======
++ **M. Toslali**, S. Qasim, S. Parthasarathy, F. Oliveira, H. Huang, G. Stringhini, Z. Liu, A. Coskun, “[An Online Probabilistic Distributed Tracing System](https://arxiv.org/pdf/2405.15645)”. Under evaluation.
 + **M. Toslali**, S. Parthasarathy, F. Oliveira, H. Huang, A. Coskun, “[Iter8: Online Experimentation in
 the Cloud](https://dl.acm.org/doi/abs/10.1145/3472883.3486984)”. In Proceedings of the 12th ACM Symposium on Cloud Computing (SoCC ’21)
 + **M. Toslali**, E. Ates, A. Ellis, Z. Zhang, D. Huye, L. Liu, S. Puterman, A.K. Coskun, R.R. Sambasivan,
@@ -26,11 +27,12 @@ VAIF](https://dl.acm.org/doi/10.1145/3472883.3487000)”. In Proceedings of the 
 automated, cross-layer instrumentation framework for diagnosing performance problems in distributed
 applications](https://dl.acm.org/doi/10.1145/3357223.3362704)”. In Proceedings of the 10th ACM Symposium on Cloud Computing
 (SoCC ’19).
++ S. Qasim, **M. Toslali**, Q. Clark, S. Parthasarathy, F. Oliveira, A. Liu, G. Stringhini, A. Coskun, “[Poster Paper: Efficient Navigation of Cloud Performance with’nuffTrace](https://www.bu.edu/peaclab/files/2023/08/2023185935.pdf)”. 2023 IEEE International Conference on Cloud Engineering (IC2E)
 
 Research Experience
 ======
-
-+ PeacLab, Boston University, *Research Assistant*                [Sept 2018 - Present]
++ IBM T.J.Watson, *Research Scientist*                                [May 2023 - present]
++ PeacLab, Boston University, *Research Assistant*                [Sept 2018 - May 2023]
 + IBM T.J.Watson, *Research Intern*                                [May 2022 - July 2022]
 + IBM T.J.Watson, *Research Intern*                                [May 2021 - Aug 2021]
 + IBM T.J.Watson, *Research Intern*                                [June 2020 - Sept 2020]
