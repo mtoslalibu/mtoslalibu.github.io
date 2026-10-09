@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my website! I'm a research scientist at IBM Research, where I focus on utilizing AI to enhance cloud and software performance, security, and risk analysis. Before joining IBM, I completed my PhD in computer engineering at Boston University. Feel free to explore my research and projects, and don't hesitate to reach out if you have any questions or collaborations in mind.
+Hi, welcome to my website! I'm a Staff Research Scientist at IBM Research. My research focuses on using AI and automated experimentation to make complex computing systems more efficient and reliable. Before joining IBM, I completed my PhD in computer engineering at Boston University. Feel free to explore my research and projects, and don't hesitate to reach out if you have any questions or collaborations in mind.
 
 
 Publications
 ======
-+ **M. Toslali**, S. Qasim, S. Parthasarathy, F. Oliveira, H. Huang, G. Stringhini, Z. Liu, A. Coskun, “[An Online Probabilistic Distributed Tracing System](https://arxiv.org/pdf/2405.15645)”. Under evaluation.
++ D. Guhathakurta, **M. Toslali** (co-first, corresponding), S. Parthasarathy, J. Chen, M. Kalantar, N. Masluk, V. Ramani, A. Tantawi, F. Oliveira, “[Simulate Before You Scale: High-Fidelity LLM Inference Planning Without GPUs](https://doi.org/10.1145/3857382)”. In Proc. ACM Meas. Anal. Comput. Syst. (SIGMETRICS '27), Vol. 10, No. 3.
++ **M. Toslali**, E. Snible, J. Chen, A. Cha, S. Singh, M. Kalantar, S. Parthasarathy, “AgraBOT: Accelerating Third-Party Security Risk Management in Enterprise Setting through Generative AI”. In ACM International Conference on the Foundations of Software Engineering (FSE '24).
++ **[Best Paper Award]** **M. Toslali**, S. Qasim, S. Parthasarathy, F. Oliveira, H. Huang, G. Stringhini, Z. Liu, A. Coskun, “[An Online Probabilistic Distributed Tracing System](https://arxiv.org/pdf/2405.15645)”. In IEEE International Conference on Cloud Engineering (IC2E '24).
 + **M. Toslali**, S. Parthasarathy, F. Oliveira, H. Huang, A. Coskun, “[Iter8: Online Experimentation in
 the Cloud](https://dl.acm.org/doi/abs/10.1145/3472883.3486984)”. In Proceedings of the 12th ACM Symposium on Cloud Computing (SoCC ’21)
 + **M. Toslali**, E. Ates, A. Ellis, Z. Zhang, D. Huye, L. Liu, S. Puterman, A.K. Coskun, R.R. Sambasivan,
